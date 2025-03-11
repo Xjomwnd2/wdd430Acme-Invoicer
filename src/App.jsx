@@ -1,9 +1,12 @@
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+import React from "react";
 
 function App() {
-    return <h1>Hello, React!</h1>;
-  }
-  
-  export default App;
-  
+  return (
+    <div>
+      <h1>React Task List</h1>
+      <p>Add your tasks below!</p>
+    </div>
+  );
+}
+
+export default App;
