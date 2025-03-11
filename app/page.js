@@ -7,7 +7,6 @@ export default function HomePage() {
       <nav>
         <ul>
           <li><Link href="/about">Home</Link></li>
-          <li><Link href="/contact">Dashboard</Link></li>
           <li><Link href="/about">Invoices</Link></li>
           <li><Link href="/contact">Customers</Link></li>
           <li><Link href="/about">About</Link></li>
