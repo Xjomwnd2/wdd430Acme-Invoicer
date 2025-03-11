@@ -6,8 +6,9 @@ export default function HomePage() {
       <h1>Hello, Next.js! 🚀</h1>
       <nav>
         <ul>
-          <li><Link href="/about">Home</Link></li>
-          <li><Link href="/about">Invoices</Link></li>
+          <li><Link href="/home">Home</Link></li>
+          <li><Link href="/dashboard">Dashboard</Link></li>
+          <li><Link href="/invoices">Invoice</Link></li>
           <li><Link href="/about">About</Link></li>
           <li><Link href="/contact">Contact</Link></li>
         </ul>
