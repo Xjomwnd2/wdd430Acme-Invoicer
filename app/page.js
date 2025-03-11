@@ -8,7 +8,6 @@ export default function HomePage() {
         <ul>
           <li><Link href="/about">Home</Link></li>
           <li><Link href="/about">Invoices</Link></li>
-          <li><Link href="/contact">Customers</Link></li>
           <li><Link href="/about">About</Link></li>
           <li><Link href="/contact">Contact</Link></li>
         </ul>
